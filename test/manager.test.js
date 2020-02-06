@@ -1,6 +1,6 @@
 "use strict";
 
-const Manager = require();
+const Manager = require("../lib/manager");
 
 test("Can set the office number", () => {
   const testValue = 425;

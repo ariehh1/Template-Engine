@@ -1,6 +1,6 @@
 "use strict";
 
-const Engineer = require();
+const Engineer = require("../lib/engineer");
 
 test("Can get GitHUb account", () => {
   const testValue = "GitHubUser";

@@ -1,6 +1,6 @@
 "use strict";
 
-const Intern = require();
+const Intern = require("../lib/intern");
 
 test("Can get the school", () => {
   const testValue = "SDSU";
