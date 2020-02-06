@@ -1,0 +1,28 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "In this repository, I have created a Command Line Application that simulates the makeup of an Engineering Team. The team members include a Manager, Employee, Engineer, and Intern.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariehh1/Template-Engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariehh1/Template-Engine/issues"
+  },
+  "homepage": "https://github.com/ariehh1/Template-Engine#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
+  }
+}
