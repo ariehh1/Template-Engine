@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ariehh1/Template-Engine#readme",
   "dependencies": {
     "inquirer": "^7.0.4",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "mustache": "^4.0.0"
   }
 }

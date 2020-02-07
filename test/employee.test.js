@@ -1,7 +1,5 @@
 "use strict";
 
-//what goes in require call-back?
-// how to obtain package.json and package-lock.json
 const Employee = require("../lib/employee");
 
 describe("Employee", () => {

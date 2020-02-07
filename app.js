@@ -1,6 +1,8 @@
 "use strict";
 
 const fs = require("fs");
+const util = require("util");
+const mustache = require("mustache");
 const inquirer = require("inquirer");
 const jest = require("inquirer");
 const Employee = require("./lib/employee");
@@ -174,8 +176,8 @@ async function init() {
     html += `  </div>
     </body>
     </html>`;
-    await writeFileAsync("output/index.html", html);
-    console.log("Successfully wrote to index.html in the output folder");
+    await writeFileAsync("output/team.html", html);
+    console.log("Successfully wrote to team.html in the output folder");
   } catch (err) {
     console.log(err);
   }
