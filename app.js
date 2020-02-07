@@ -8,10 +8,24 @@ const Manager = require("./lib/manager");
 const generateMain = require("./templates/generatemain");
 console.log(generateMain("Ari", "engineer"));
 
-//initator for app
-
-//entry point
-
 //start with questions
+const userInput = [
+  {
+    message: "What is your Manager's name?",
+    type: "input",
+    name: "name"
+  }
+];
+
+async function init() {
+  try {
+    const answers = await inquirer.prompt(userInput);
+    console.log(answers);
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+init();
 
 //classes to populate items

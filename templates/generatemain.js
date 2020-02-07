@@ -1,6 +1,6 @@
 "use strict";
 
-function generateMain(name, position) {
+function userInput(name, position) {
   return `<!DOCTYPE html>
   <html lang="en">
   
@@ -60,4 +60,4 @@ function generateMain(name, position) {
     `;
 }
 
-module.exports = generateMain;
+module.exports = userInput;
