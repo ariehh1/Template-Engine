@@ -1,3 +1,32 @@
-nav {
+h1 {
+  padding: 50px;
   text-align: center;
+  color: white;
+}
+a {
+  margin-left: 5px;
+}
+.row {
+  align-content: center;
+}
+.col-4 {
+  float: left;
+}
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.card-header {
+  color: white;
+  background-color: blue;
+}
+.card-body {
+  background-color: #eeeeee;
+  height: 200px;
+  padding: 30px;
+}
+.info-field {
+  border: 1px solid #dddddd;
+  background-color: white;
+  padding: 5px;
 }
