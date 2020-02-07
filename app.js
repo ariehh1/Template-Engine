@@ -9,7 +9,7 @@ const Employee = require("./lib/employee");
 const Engineer = require("./lib/engineer");
 const Intern = require("./lib/intern");
 const Manager = require("./lib/manager");
-const generateMain = require("./templates/generatemain");
+// const generateMain = require("./templates/generatemain");
 const writeFileAsync = util.promisify(fs.writeFile);
 const employeeArray = [];
 const idArray = [];
@@ -85,7 +85,7 @@ async function inputSchool() {
   });
 }
 async function init() {
-  console.log("hi");
+  console.log("Please build your team");
   try {
     let add = await addEmployee();
     while (add.add == "Yes") {
