@@ -10,7 +10,7 @@ As the application runs in node, the user should first type "npm i". Then "node 
 Future Development:
 If I were to continue developing the application, I would add in more persona profiles for granularity. Within the Engineering team for example, there are Junior Developers, Mid-Level, etc. They each would personify a different set of technical skills and expertise.
 
-References:
+<h1>References:</h1>
 
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 - [w3schools](https://www.w3schools.com/)
