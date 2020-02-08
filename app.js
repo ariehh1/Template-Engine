@@ -143,11 +143,12 @@ async function init() {
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-      <link rel="stylesheet" href="style.css">
-      <title>Team Profile</title>
+      <link rel="stylesheet" href="../assets/style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <title>Team Profile - Template Engine</title>
     </head>
     <body style="background-color: white">
-      <h1 style="background-color: red">
+      <h1 style="background-color: #CE1141">
           My Team
       </h1>
       <div class="wrapper" style="max-width: 960px; margin: 50px auto">
