@@ -16,7 +16,7 @@ If I were to continue developing the application, I would add in more persona pr
 - [w3schools](https://www.w3schools.com/)
 - [mustache](https://www.npmjs.com/package/mustache)
 
-<h1>Contact:</h1>
+<h1>Contact Me:</h1>
 [@ariehh1](https://github.com/ariehh1)
 
 <h1>Screenshare:</h1>
