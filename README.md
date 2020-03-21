@@ -16,11 +16,14 @@ If I were to continue developing the application, I would add in more persona pr
 - [w3schools](https://www.w3schools.com/)
 - [mustache](https://www.npmjs.com/package/mustache)
 
-<h1>Contact Me:</h1>
-[@ariehh1](https://github.com/ariehh1)
+Screenshot:
+![image](https://user-images.githubusercontent.com/57271161/77217386-4ff61500-6adf-11ea-8de7-aa35bbc864e1.png)
 
 <h1>Screenshare:</h1>
 
 Please follow the below Screencastify video for a quick demonstration:
 
 https://drive.google.com/file/d/1pZjQumlDk_vYESrad2rJFDU2eAWcCVBy/view
+
+<h1>Contact Me:</h1>
+[@ariehh1](https://github.com/ariehh1)
