@@ -16,7 +16,7 @@ If I were to continue developing the application, I would add in more persona pr
 - [w3schools](https://www.w3schools.com/)
 - [mustache](https://www.npmjs.com/package/mustache)
 
-Screenshot:
+<h1>Screenshot:</h1>
 ![image](https://user-images.githubusercontent.com/57271161/77217386-4ff61500-6adf-11ea-8de7-aa35bbc864e1.png)
 
 <h1>Screenshare:</h1>
