@@ -17,7 +17,7 @@ If I were to continue developing the application, I would add in more persona pr
 - [mustache](https://www.npmjs.com/package/mustache)
 
 <h1>Screenshot:</h1>
-![image](https://user-images.githubusercontent.com/57271161/77217386-4ff61500-6adf-11ea-8de7-aa35bbc864e1.png)
+![image](https://user-images.githubusercontent.com/57271161/77217426-afecbb80-6adf-11ea-99da-cc00860a083c.png)
 
 <h1>Screenshare:</h1>
 
